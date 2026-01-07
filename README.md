@@ -1,6 +1,6 @@
-# 🚀 My Coding Journey
+# 🗄️ SQL LeetCode Solutions
 
-Daily coding challenges and LeetCode solutions to improve problem-solving skills.
+Daily SQL challenges from LeetCode to master database query skills and problem-solving.
 
 ## 📊 Progress Tracker
 
@@ -29,15 +29,17 @@ problems/
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
-## 📌 Topics Covered
+## 📌 SQL Topics Covered
 
-- [ ] Arrays
-- [ ] Strings
-- [ ] SQL Queries
-- [ ] Joins
-- [ ] Aggregations
+- [x] Joins (LEFT, RIGHT, INNER, OUTER)
+- [ ] Aggregations (COUNT, SUM, AVG, MAX, MIN)
 - [ ] Window Functions
 - [ ] Subqueries
+- [ ] CTEs (Common Table Expressions)
+- [ ] Group By & Having
+- [ ] String Functions
+- [ ] Date Functions
+- [ ] Case Statements
 
 ---
 
