@@ -4,9 +4,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-16-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-9%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
-
+[![Problems Solved](https://img.shields.io/badge/Solved-18-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-10%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
 
 </div>
@@ -15,8 +14,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 16
-🔥 Current Streak: 9 days
+🎯 Total Problems: 18
+🔥 Current Streak: 10 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -29,7 +28,7 @@
 
 **🟢 Easy**
 
-`16 problems`
+`18 problems`
 
 </td>
 <td align="center">
@@ -91,6 +90,7 @@
 - ✔️ CASE Statements
 - ✔️ Subqueries
 - ✔️ UPDATE Operations
+- ✔️ Date Functions
 
 </td>
 <td>
@@ -159,6 +159,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** January 18, 2026
+**Last Updated:** January 19, 2026
 
 </div>
