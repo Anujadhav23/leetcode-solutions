@@ -4,8 +4,11 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-18-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-10%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Problems Solved](https://img.shields.io/badge/Solved-21-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-11%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
+
+*Daily SQL problem-solving to master database concepts and query optimization*
+
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
 
 </div>
@@ -14,8 +17,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 18
-🔥 Current Streak: 10 days
+🎯 Total Problems: 21
+🔥 Current Streak: 11 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -28,7 +31,7 @@
 
 **🟢 Easy**
 
-`18 problems`
+`21 problems`
 
 </td>
 <td align="center">
@@ -70,6 +73,12 @@
 | 14 | [Swap Salary](problems/easy/014-swap-salary.sql) | UPDATE, CASE | 🟢 | Jan 17 | [📄](problems/easy/014-swap-salary.sql) |
 | 15 | [Actors Directors Cooperated](problems/easy/015-actors-directors-cooperated.sql) | GROUP BY, HAVING | 🟢 | Jan 17 | [📄](problems/easy/015-actors-directors-cooperated.sql) |
 | 16 | [Product Sales Analysis I](problems/easy/016-product-sales-analysis-i.sql) | INNER JOIN | 🟢 | Jan 18 | [📄](problems/easy/016-product-sales-analysis-i.sql) |
+| 17 | [Sales Analysis III](problems/easy/017-sales-analysis-iii.sql) | MIN/MAX, Date Filter | 🟢 | Jan 19 | [📄](problems/easy/017-sales-analysis-iii.sql) |
+| 18 | [Project Employees I](problems/easy/018-project-employees-i.sql) | AVG, DECIMAL | 🟢 | Jan 19 | [📄](problems/easy/018-project-employees-i.sql) |
+| 19 | [Reformat Department Table](problems/easy/019-reformat-department-table.sql) | PIVOT, CASE | 🟢 | Jan 20 | [📄](problems/easy/019-reformat-department-table.sql) |
+| 20 | [Article Views I](problems/easy/020-article-views-i.sql) | DISTINCT, WHERE | 🟢 | Jan 20 | [📄](problems/easy/020-article-views-i.sql) |
+| 21 | [User Activity Past 30 Days](problems/easy/021-user-activity-past-30-days.sql) | BETWEEN, COUNT DISTINCT | 🟢 | Jan 20 | [📄](problems/easy/021-user-activity-past-30-days.sql) |
+
 ---
 
 ## 📚 Topics Covered
@@ -82,25 +91,29 @@
 - ✔️ SQL Joins (INNER, LEFT, RIGHT)
 - ✔️ Self-Joins
 - ✔️ GROUP BY & HAVING
-- ✔️ Aggregation Functions
+- ✔️ Aggregation Functions (COUNT, SUM, AVG, MIN, MAX)
 - ✔️ NULL Handling
 - ✔️ CTEs (Common Table Expressions)
 - ✔️ DELETE Operations
+- ✔️ UPDATE Operations
 - ✔️ WHERE with OR/AND
 - ✔️ CASE Statements
 - ✔️ Subqueries
-- ✔️ UPDATE Operations
-- ✔️ Date Functions
+- ✔️ Date Functions & BETWEEN
+- ✔️ DISTINCT
+- ✔️ PIVOT Transformations
+- ✔️ ORDER BY
 
 </td>
 <td>
 
 ### 🎯 In Progress
 - ⏳ Window Functions
-- ⏳ Date Functions
 - ⏳ String Functions
 - ⏳ UNION Operations
 - ⏳ Complex Joins
+- ⏳ Advanced Subqueries
+- ⏳ Recursive CTEs
 
 </td>
 </tr>
@@ -159,6 +172,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** January 19, 2026
+**Last Updated:** January 20, 2026
 
 </div>
