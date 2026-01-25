@@ -4,8 +4,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-27-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-14%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Problems Solved](https://img.shields.io/badge/Solved-28-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-15%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 *Daily SQL problem-solving to master database concepts and query optimization*
 
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
@@ -16,8 +16,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 27
-🔥 Current Streak: 14 days
+🎯 Total Problems: 28
+🔥 Current Streak: 15 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -30,7 +30,7 @@
 
 **🟢 Easy**
 
-`27 problems`
+`28 problems`
 
 </td>
 <td align="center">
@@ -83,6 +83,7 @@
 | 25 | [List Products Ordered Period](problems/easy/025-list-products-ordered-period.sql) | BETWEEN, HAVING | 🟢 | Jan 22 | [📄](problems/easy/025-list-products-ordered-period.sql) |
 | 26 | [Top Travellers](problems/easy/026-top-travellers.sql) | COALESCE, Multiple ORDER BY | 🟢 | Jan 23 | [📄](problems/easy/026-top-travellers.sql) |
 | 27 | [Replace Employee ID](problems/easy/027-replace-employee-id.sql) | LEFT JOIN, NULL | 🟢 | Jan 23 | [📄](problems/easy/027-replace-employee-id.sql) |
+| 28 | [Patients With Condition](problems/easy/028-patients-with-condition.sql) | LIKE, Pattern Matching | 🟢 | Jan 25 | [📄](problems/easy/028-patients-with-condition.sql) |
 ---
 
 ## 📚 Topics Covered
@@ -111,6 +112,7 @@
 - ✔️ COALESCE/NULL Functions
 - ✔️ Weighted Averages
 - ✔️ Percentage Calculations
+- ✔️ String Pattern Matching (LIKE)
 </td>
 <td>
 
@@ -179,6 +181,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** January 23, 2026
+**Last Updated:** January 25, 2026
 
 </div>
