@@ -4,8 +4,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-28-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-15%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Problems Solved](https://img.shields.io/badge/Solved-30-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-3%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 *Daily SQL problem-solving to master database concepts and query optimization*
 
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
@@ -16,8 +16,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 28
-🔥 Current Streak: 15 days
+🎯 Total Problems: 30
+🔥 Current Streak: 16 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -30,7 +30,7 @@
 
 **🟢 Easy**
 
-`28 problems`
+`30 problems`
 
 </td>
 <td align="center">
@@ -84,6 +84,8 @@
 | 26 | [Top Travellers](problems/easy/026-top-travellers.sql) | COALESCE, Multiple ORDER BY | 🟢 | Jan 23 | [📄](problems/easy/026-top-travellers.sql) |
 | 27 | [Replace Employee ID](problems/easy/027-replace-employee-id.sql) | LEFT JOIN, NULL | 🟢 | Jan 23 | [📄](problems/easy/027-replace-employee-id.sql) |
 | 28 | [Patients With Condition](problems/easy/028-patients-with-condition.sql) | LIKE, Pattern Matching | 🟢 | Jan 25 | [📄](problems/easy/028-patients-with-condition.sql) |
+| 29 | [Customer Visited No Trans](problems/easy/029-customer-visited-no-trans.sql) | LEFT JOIN, IS NULL | 🟢 | Jan 27 | [📄](problems/easy/029-customer-visited-no-trans.sql) |
+| 30 | [Bank Account Summary II](problems/easy/030-bank-account-summary.sql) | SUM, HAVING | 🟢 | Jan 27 | [📄](problems/easy/030-bank-account-summary.sql) |
 ---
 
 ## 📚 Topics Covered
@@ -181,6 +183,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** January 25, 2026
+**Last Updated:** January 27, 2026
 
 </div>
