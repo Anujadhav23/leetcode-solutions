@@ -4,8 +4,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-31-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-4%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Problems Solved](https://img.shields.io/badge/Solved-35-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-5%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 *Daily SQL problem-solving to master database concepts and query optimization*
 
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
@@ -16,8 +16,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 31
-🔥 Current Streak: 17 days
+🎯 Total Problems: 35
+🔥 Current Streak: 18 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -30,7 +30,7 @@
 
 **🟢 Easy**
 
-`31 problems`
+`35 problems`
 
 </td>
 <td align="center">
@@ -87,6 +87,10 @@
 | 29 | [Customer Visited No Trans](problems/easy/029-customer-visited-no-trans.sql) | LEFT JOIN, IS NULL | 🟢 | Jan 27 | [📄](problems/easy/029-customer-visited-no-trans.sql) |
 | 30 | [Bank Account Summary II](problems/easy/030-bank-account-summary.sql) | SUM, HAVING | 🟢 | Jan 27 | [📄](problems/easy/030-bank-account-summary.sql) |
 | 31 | [Percentage Users Attended Contest](problems/easy/031-percentage-users-attended-contest.sql) | Subquery, Percentage | 🟢 | Jan 28 | [📄](problems/easy/031-percentage-users-attended-contest.sql) |
+| 32 | [Employees Report Count](problems/easy/032-employees-report-count.sql) | Self-Join, AVG | 🟢 | Jan 29 | [📄](problems/easy/032-employees-report-count.sql) |
+| 33 | [Find Followers Count](problems/easy/033-find-followers-count.sql) | GROUP BY, COUNT | 🟢 | Jan 29 | [📄](problems/easy/033-find-followers-count.sql) |
+| 34 | [Daily Leads Partners](problems/easy/034-daily-leads-partners.sql) | COUNT DISTINCT | 🟢 | Jan 29 | [📄](problems/easy/034-daily-leads-partners.sql) |
+| 35 | [Invalid Tweets](problems/easy/035-invalid-tweets.sql) | LEN, String Functions | 🟢 | Jan 29 | [📄](problems/easy/035-invalid-tweets.sql) |
 ---
 
 ## 📚 Topics Covered
@@ -116,6 +120,7 @@
 - ✔️ Weighted Averages
 - ✔️ Percentage Calculations
 - ✔️ String Pattern Matching (LIKE)
+- ✔️ String Functions (LEN/LENGTH)
 </td>
 <td>
 
@@ -184,6 +189,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** January 28, 2026
+**Last Updated:** January 29, 2026
 
 </div>
