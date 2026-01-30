@@ -3,9 +3,9 @@
 # 🗄️ SQL Mastery Journey
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-35-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-5%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=p)ostgresql&logoColor=white)](https://www.postgresql.org/)
+[![Problems Solved](https://img.shields.io/badge/Solved-36-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-6%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 *Daily SQL problem-solving to master database concepts and query optimization*
 
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
@@ -16,8 +16,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 35
-🔥 Current Streak: 18 days
+🎯 Total Problems: 36
+🔥 Current Streak: 19 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -30,7 +30,7 @@
 
 **🟢 Easy**
 
-`35 problems`
+`36 problems`
 
 </td>
 <td align="center">
@@ -91,6 +91,7 @@
 | 33 | [Find Followers Count](problems/easy/033-find-followers-count.sql) | GROUP BY, COUNT | 🟢 | Jan 29 | [📄](problems/easy/033-find-followers-count.sql) |
 | 34 | [Daily Leads Partners](problems/easy/034-daily-leads-partners.sql) | COUNT DISTINCT | 🟢 | Jan 29 | [📄](problems/easy/034-daily-leads-partners.sql) |
 | 35 | [Invalid Tweets](problems/easy/035-invalid-tweets.sql) | LEN, String Functions | 🟢 | Jan 29 | [📄](problems/easy/035-invalid-tweets.sql) |
+| 36 | [Total Time Spent Employee](problems/easy/036-total-time-spent-employee.sql) | SUM, Arithmetic | 🟢 | Jan 30 | [📄](problems/easy/036-total-time-spent-employee.sql) |
 ---
 
 ## 📚 Topics Covered
@@ -189,6 +190,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** January 29, 2026
+**Last Updated:** January 30, 2026
 
 </div>
