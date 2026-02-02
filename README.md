@@ -4,9 +4,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-41-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-21%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
-
+[![Problems Solved](https://img.shields.io/badge/Solved-43-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-22%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 *Daily SQL problem-solving to master database concepts and query optimization*
 
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
@@ -17,8 +16,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 41
-🔥 Current Streak: 21 days
+🎯 Total Problems: 43
+🔥 Current Streak: 22 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -31,7 +30,7 @@
 
 **🟢 Easy**
 
-`41 problems`
+`43 problems`
 
 </td>
 <td align="center">
@@ -98,6 +97,8 @@
 | 39 | [Recyclable Low Fat Products](problems/easy/039-recyclable-low-fat-products.sql) | WHERE AND | 🟢 | Jan 31 | [📄](problems/easy/039-recyclable-low-fat-products.sql) |
 | 40 | [Calculate Special Bonus](problems/easy/040-calculate-special-bonus.sql) | CASE, Modulo, LIKE | 🟢 | Feb 1 | [📄](problems/easy/040-calculate-special-bonus.sql) |
 | 41 | [Latest Login 2020](problems/easy/041-latest-login-2020.sql) | MAX, DATETIME Filter | 🟢 | Feb 1 | [📄](problems/easy/041-latest-login-2020.sql) |
+| 42 | [Employees Missing Information](problems/easy/042-employees-missing-information.sql) | UNION, Double LEFT JOIN | 🟢 | Feb 2 | [📄](problems/easy/042-employees-missing-information.sql) |
+| 43 | [Employees Manager Left](problems/easy/043-employees-manager-left.sql) | Self-Join, Multiple Conditions | 🟢 | Feb 2 | [📄](problems/easy/043-employees-manager-left.sql) |
 
 ---
 
@@ -199,6 +200,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** February 1, 2026
+**Last Updated:** February 2, 2026
 
 </div>
