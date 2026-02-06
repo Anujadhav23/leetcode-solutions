@@ -104,7 +104,7 @@
 | 46 | [Valid Serial Numbers](problems/easy/046-valid-serial-numbers.sql) | Pattern Matching, COLLATE | 🟢 | Feb 3 | [📄](problems/easy/046-valid-serial-numbers.sql) |
 | 47 | [Find Books with No Available Copies](problems/easy/047-find-books-no-available-copies.sql) | INNER JOIN, COUNT, HAVING | 🟢 | Feb 4 | [📄](problems/easy/047-find-books-no-available-copies.sql) |
 | 48 | [Find Users with High Token Usage](problems/easy/048-find-users-with-high-token-usage.sql) | GROUP BY, HAVING, Aggregation | 🟢 | Feb 5 | [📄](problems/easy/048-find-users-with-high-token-usage.sql) |
-| 049 | [Second Highest Salary](problems/medium/049-second-highest-salary.sql) | Subquery, MAX, Distinct | 🟡 | Feb 6 | [📄](problems/medium/176-second-highest-salary.sql) |
+| 176 | [Second Highest Salary](problems/medium/001-second-highest-salary.sql) | Subquery, MAX, Distinct | 🟡 | Feb 6 | [📄](problems/medium/001-second-highest-salary.sql) |
 
 ---
 
