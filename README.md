@@ -4,7 +4,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Problems Solved](https://img.shields.io/badge/Solved-48-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Problems Solved](https://img.shields.io/badge/Solved-49-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
 [![Days Streak](https://img.shields.io/badge/Streak-25%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 *Daily SQL problem-solving to master database concepts and query optimization*
 
@@ -16,8 +16,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 48
-🔥 Current Streak: 25 days
+🎯 Total Problems: 49
+🔥 Current Streak: 26 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -37,7 +37,7 @@
 
 **🟡 Medium**
 
-`0 problems`
+`1 problems`
 
 </td>
 <td align="center">
@@ -104,6 +104,7 @@
 | 46 | [Valid Serial Numbers](problems/easy/046-valid-serial-numbers.sql) | Pattern Matching, COLLATE | 🟢 | Feb 3 | [📄](problems/easy/046-valid-serial-numbers.sql) |
 | 47 | [Find Books with No Available Copies](problems/easy/047-find-books-no-available-copies.sql) | INNER JOIN, COUNT, HAVING | 🟢 | Feb 4 | [📄](problems/easy/047-find-books-no-available-copies.sql) |
 | 48 | [Find Users with High Token Usage](problems/easy/048-find-users-with-high-token-usage.sql) | GROUP BY, HAVING, Aggregation | 🟢 | Feb 5 | [📄](problems/easy/048-find-users-with-high-token-usage.sql) |
+| 049 | [Second Highest Salary](problems/medium/049-second-highest-salary.sql) | Subquery, MAX, Distinct | 🟡 | Feb 6 | [📄](problems/medium/176-second-highest-salary.sql) |
 
 ---
 
@@ -209,6 +210,6 @@ Each solution includes:
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Last Updated:** February 5, 2026
+**Last Updated:** February 6, 2026
 
 </div>
