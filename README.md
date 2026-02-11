@@ -5,8 +5,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Problems Solved](https://img.shields.io/badge/Solved-49-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
-[![Days Streak](https://img.shields.io/badge/Streak-25%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
-*Daily SQL problem-solving to master database concepts and query optimization*
+[![Problems Solved](https://img.shields.io/badge/Solved-47-success?style=for-the-badge)](https://github.com/Anujadhav23/leetcode-solutions)
+[![Days Streak](https://img.shields.io/badge/Streak-24%20Days-orange?style=for-the-badge&logo=fire)](https://github.com/Anujadhav23/leetcode-solutions)
 
 [📊 View Progress](#-progress-tracker) • [🎯 Problems Solved](#-problems-solved) • [📚 Topics Covered](#-topics-covered)
 
@@ -16,8 +16,8 @@
 
 ## 📊 Progress Tracker
 ```
-🎯 Total Problems: 49
-🔥 Current Streak: 26 days
+🎯 Total Problems: 50
+🔥 Current Streak: 27 days
 📅 Start Date: January 7, 2026
 💪 Consistency: 100%
 ```
@@ -30,14 +30,14 @@
 
 **🟢 Easy**
 
-`47 problems`
+`48 problems`
 
 </td>
 <td align="center">
 
 **🟡 Medium**
 
-`1 problems`
+`2 problems`
 
 </td>
 <td align="center">
@@ -106,6 +106,11 @@
 | 48 | [Find Users with High Token Usage](problems/easy/048-find-users-with-high-token-usage.sql) | GROUP BY, HAVING, Aggregation | 🟢 | Feb 5 | [📄](problems/easy/048-find-users-with-high-token-usage.sql) |
 | 176 | [Second Highest Salary](problems/medium/001-second-highest-salary.sql) | Subquery, MAX, Distinct | 🟡 | Feb 6 | [📄](problems/medium/001-second-highest-salary.sql) |
 
+## 🟡 Medium Problems
+
+| # | Problem | Topics | Difficulty | Date | Solution |
+|:-:|---------|--------|:----------:|:----:|:--------:|
+| 1 | [Product Sales Analysis III](problems/medium/002-product-sales-analysis-iii.sql) | CTE, MIN, Compound JOIN | 🟡 | Feb 11 | [📄](problems/medium/001-product-sales-analysis-iii.sql) |
 ---
 
 ## 📚 Topics Covered
